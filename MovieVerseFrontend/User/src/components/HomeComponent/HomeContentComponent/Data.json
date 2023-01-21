@@ -1,0 +1,191 @@
+[
+    {
+      "id": "985939",
+      "title": "Fall",
+      "image": "https://image.tmdb.org/t/p/w300/spCAxD99U1A6jsiePFoqdEcY0dG.jpg",
+      "releaseDate": "11.08.2022",
+      "__typename": "Movie",
+      "poster":"https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/1DBDwevWS8OhiT3wqqlW7KGPd6m.jpg",
+      "trailer":"-TYL3uPqYhE"
+    },
+    {
+      "id": "532639",
+      "title": "Pinocchio",
+      "image": "https://image.tmdb.org/t/p/w300/h32gl4a3QxQWNiNaR4Fc1uvLBkV.jpg",
+      "releaseDate": "07.09.2022",
+      "__typename": "Movie",
+      "poster":"https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/yxyRCZNaPWDpS1jk9JjEkBEDlin.jpg",
+      "trailer":"H4YgkUDVDhE"
+    },
+    {
+      "id": "760741",
+      "title": "Beast",
+      "image": "https://image.tmdb.org/t/p/w300/iRV0IB5xQeOymuGGUBarTecQVAl.jpg",
+      "releaseDate": "11.08.2022",
+      "__typename": "Movie",
+      "poster":"https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/bY0RNttfEPBiL24rTsUANsG4q8E.jpg",
+      "trailer":"oQMc7Sq36mI"
+    },
+    {
+      "id": "760161",
+      "title": "Orphan: First Kill",
+      "image": "https://image.tmdb.org/t/p/w300/wSqAXL1EHVJ3MOnJzMhUngc8gFs.jpg",
+      "releaseDate": "27.07.2022",
+      "__typename": "Movie",
+      "poster":"https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/5GA3vV1aWWHTSDO5eno8V5zDo8r.jpg",
+      "trailer":"_uX6of3vBu0"
+    },
+    {
+      "id": "629176",
+      "title": "Samaritan",
+      "image": "https://image.tmdb.org/t/p/w300/vwq5iboxYoaSpOmEQrhq9tHicq7.jpg",
+      "releaseDate": "25.08.2022",
+      "__typename": "Movie",
+      "poster":"https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/A2Jm2vrd50ky2rMCviOzjz6xNz5.jpg",
+      "trailer":"9FKnTxSC16E"
+    },
+    {
+      "id": "579974",
+      "title": "RRR",
+      "image": "https://image.tmdb.org/t/p/w300/wE0I6efAW4cDDmZQWtwZMOW44EJ.jpg",
+      "releaseDate": "24.03.2022",
+      "__typename": "Movie",
+      "poster":"https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/d3l7kgFJyLTTQSrR4ysCk5yeVyW.jpg",
+      "trailer":"f_vbAtFSEc0"
+    },
+    {
+      "id": "810693",
+      "title": "Jujutsu Kaisen",
+      "image": "https://image.tmdb.org/t/p/w300/yzkgx79vj1KsZBzxFBIsQBwBkPE.jpg",
+      "releaseDate": "24.12.2021",
+      "__typename": "Movie",
+      "poster":"https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/uBxkwY70q6d7c8dN0qAXRHmHeUQ.jpg",
+      "trailer":"wWM3nTtgdu8"
+    },
+    {
+      "id": "616037",
+      "title": "Thor: Love and Thunder",
+      "image": "https://image.tmdb.org/t/p/w300/pIkRyD18kl4FhoCNQuWxWu5cBLM.jpg",
+      "releaseDate": "06.07.2022",
+      "__typename": "Movie",
+      "poster":"https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/qBKEVzAcqkFFBdxNBQFocdZhIlY.jpg",
+      "trailer":"Go8nTmfrQd8"
+    },
+    {
+      "id": "610150",
+      "title": "Dragon Ball Super",
+      "image": "https://image.tmdb.org/t/p/w300/rugyJdeoJm7cSJL1q4jBpTNbxyU.jpg",
+      "releaseDate": "11.06.2022",
+      "__typename": "Movie",
+      "poster":"https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/yIDS5QLvKtgzfu43eUWx5JkGW6p.jpg",
+      "trailer":"nv5FD7NLHCc"
+    },
+    {
+      "id": "539681",
+      "title": "League of Super-Pets",
+      "image": "https://image.tmdb.org/t/p/w300/r7XifzvtezNt31ypvsmb6Oqxw49.jpg",
+      "releaseDate": "27.07.2022",
+      "__typename": "Movie",
+      "poster":"https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/nU3ht11wHal2YyMJhTf2yCUQdPj.jpg",
+      "trailer":"1jkw2JPCl18"
+    },
+    {
+      "id": "960700",
+      "title": "Fullmetal Alchemist",
+      "image": "https://image.tmdb.org/t/p/w300/c5OwwBNyJkwyroIOIJL9IiRjydR.jpg",
+      "releaseDate": "20.05.2022",
+      "__typename": "Movie",
+      "poster":"https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/yaze6df9AMIA9oeDEbIZ4zOTRCJ.jpg",
+      "trailer":"cqj4u6eyDq8"
+    },
+    {
+      "id": "766507",
+      "title": "Prey",
+      "image": "https://image.tmdb.org/t/p/w300/ujr5pztc1oitbe7ViMUOilFaJ7s.jpg",
+      "releaseDate": "02.08.2022",
+      "__typename": "Movie",
+      "poster":"https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/7ZO9yoEU2fAHKhmJWfAc2QIPWJg.jpg",
+      "trailer":"wZ7LytagKlc"
+    },
+    {
+      "id": "921360",
+      "title": "Wire Room",
+      "image": "https://image.tmdb.org/t/p/w300/b9ykj4v8ykjRoGB7SpI1OuxblNU.jpg",
+      "releaseDate": "02.09.2022",
+      "__typename": "Movie",
+      "poster":"https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/skL7c4ZhZqo1IFbMcHNrol4fvkc.jpg",
+      "trailer":"jicxLxcFsEw"
+    },
+    {
+      "id": "781099",
+      "title": "Inexorable",
+      "image": "https://image.tmdb.org/t/p/w300/iiclsw6zgRJz5D5Cc6sn4Cs9GQo.jpg",
+      "releaseDate": "06.04.2022",
+      "__typename": "Movie",
+      "poster":"https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/qwtT5a7ZiLtUyjGggHmHw958OxT.jpg",
+      "trailer":"ryiglT6Ryws"
+    },
+    {
+      "id": "361743",
+      "title": "Top Gun: Maverick",
+      "image": "https://image.tmdb.org/t/p/w300/62HCnUTziyWcpDaBO2i1DX17ljH.jpg",
+      "releaseDate": "24.05.2022",
+      "__typename": "Movie",
+      "poster":"https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/AaV1YIdWKnjAIAOe8UUKBFm327v.jpg",
+      "trailer":"giXco2jaZ_4"
+    },
+    {
+      "id": "507086",
+      "title": "Jurassic World Dominion",
+      "image": "https://image.tmdb.org/t/p/w300/kAVRgw7GgK1CfYEJq8ME6EvRIgU.jpg",
+      "releaseDate": "01.06.2022",
+      "__typename": "Movie",
+      "poster":"https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/3PieOs1t6dPHWlgvX3XoqTIQLqN.jpg",
+      "trailer":"fb5ELWi-ekk"
+    },
+    {
+      "id": "19995",
+      "title": "Avatar:The Way Of Water",
+      "image": "https://image.tmdb.org/t/p/w300/jRXYjXNq0Cs2TcJjLkki24MLp7u.jpg",
+      "releaseDate": "10.12.2009",
+      "__typename": "Movie",
+      "poster":"https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/s16H6tpK2utvwDtzZ8Qy4qm5Emw.jpg",
+      "trailer":"d9MyW72ELq0"
+    },
+    {
+      "id": "773867",
+      "title": "Seoul Vibe",
+      "image": "https://image.tmdb.org/t/p/w300/ffX0TL3uKerLXACkuZGWhAPMbAq.jpg",
+      "releaseDate": "26.08.2022",
+      "__typename": "Movie",
+      "poster":"https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/rHzoz94bRfyfNLjiIB26Wt5KDHE.jpg",
+      "trailer":"H94Vfb12Hkw"
+    },
+    {
+      "id": "773975",
+      "title": "End of the Road",
+      "image": "https://image.tmdb.org/t/p/w300/tLFIMuPWJHlTJ6TN8HCOiSD6SdA.jpg",
+      "releaseDate": "09.09.2022",
+      "__typename": "Movie",
+      "poster":"https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/5luJmy21N3bYCkjzRHsoZfvLtPP.jpg",
+      "trailer":"202KkD12AuI"
+    },
+    {
+      "id": "1015602",
+      "title": "Welcome to the Club",
+      "image": "https://image.tmdb.org/t/p/w300/kxB9E6fo0ycHzd13oOTHmGa5Njd.jpg",
+      "releaseDate": "08.09.2022",
+      "__typename": "Movie",
+      "poster":"https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/4ecMMzO8CFH3Rvp2QZFodu4FZ6S.jpg",
+      "trailer":"zmz_35uat4E"
+    },
+    {
+      "id":"1015603",
+      "title":"Black Panther: Wakanda Forever",
+      "image":"https://image.tmdb.org/t/p/w500/ps2oKfhY6DL3alynlSqY97gHSsg.jpg",
+      "releaseDate":"09-11-2022",
+      "__typename":"Movie",
+      "poster":"https://image.tmdb.org/t/p/original/xDMIl84Qo5Tsu62c9DGWhmPI67A.jpg",
+      "trailer":"_Z3QKkl1WyM"
+    }
+  ]

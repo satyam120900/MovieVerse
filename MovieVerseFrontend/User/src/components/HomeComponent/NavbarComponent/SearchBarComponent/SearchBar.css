@@ -1,0 +1,39 @@
+  .searchbar{
+  background:white;
+  box-shadow:0 8px 32px 0 rgba(31,38,135,0.37);
+  border-radius:2rem;
+  width:45vw;
+  height:3rem;
+  border:none;
+  outline:none;
+  display: flex;
+  margin-left: 20px;
+  }
+  .searchbar:hover{
+    border-radius:2rem;
+    box-shadow:0 0 0 0.2rem #FEFBEA;
+  }
+  .searchbar button{
+    height: 3rem;
+    width: 3rem;
+    background: transparent;
+    border: none;
+    outline: none;
+    border-radius: 2rem;
+  }
+  .searchbar input{
+    background: transparent;
+    height: 3rem;
+    border-radius: 2rem;
+    border: none;
+    outline: none;
+    width:40vw;
+    letter-spacing: 0.05rem;
+    color:black;
+    font-size:1rem;
+  }
+  .searchbar input::placeholder{
+    color: #232323;
+    font-style: italic;
+      font-size:1rem;
+  }

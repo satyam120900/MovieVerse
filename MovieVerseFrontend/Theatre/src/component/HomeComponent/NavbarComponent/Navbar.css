@@ -1,0 +1,27 @@
+.navBar{
+    height:12vh;
+    background: #1b1919;
+    display: flex;
+    align-items: center;
+    cursor: pointer;
+}
+
+.logo img{
+    height:10vh;
+    width: 25vw;
+    display: flex;
+}
+.profile{
+    font-size: 2rem;
+    display:flex;
+    margin-left: 95%;
+    float: right;
+    height: 30px;
+    width: 30px;
+    align-items: center;
+    position: absolute;
+}
+.profile:hover{
+    background: rgb(0,212,212);
+    border-radius: 60px;
+}

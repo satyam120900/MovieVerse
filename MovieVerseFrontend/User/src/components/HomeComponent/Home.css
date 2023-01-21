@@ -1,0 +1,29 @@
+.Home{
+    background:#222;
+    background-position:center center;
+    background-size:contain;
+    background-attachment: fixed;
+    height: auto;
+    width:auto;
+  }
+  .chatbotDiv{
+    position: fixed;
+    bottom: 0;
+    right: 0;
+    margin-right: 20px;
+    margin-bottom: 20px;
+    z-index: 1;
+  }
+  .chatbot{
+    width:60px;
+    height:60px;
+    border-radius: 60px;
+    outline: none;
+    border: none;
+    background-color: #6e48aa;
+    align-items: center;
+    float: right;
+  }
+  .chatbot i{
+    color: white;
+  }

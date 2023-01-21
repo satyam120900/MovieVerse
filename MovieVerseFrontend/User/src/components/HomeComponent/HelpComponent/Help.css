@@ -1,0 +1,35 @@
+.help{
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    height: 110vh;
+}
+.faq{
+    color: white;
+    background-color: #6e48aa;
+    width: 600px;
+    text-align: center;
+    padding: 10px;
+    border-radius: 10px;
+    height:40px;
+    margin-top: 20px;
+    font-family: 'Piedra', cursive;
+}
+.accordion{
+    width: 600px;
+    font-family: 'Piedra', cursive;
+}
+.emailUs{
+    background-color:#6e48aa;
+    height: 40px;
+    width: 600px;
+    border-radius: 10px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-family: 'Piedra', cursive;
+}
+.emailUs a{
+    text-decoration: none;
+    text-align: center;
+}

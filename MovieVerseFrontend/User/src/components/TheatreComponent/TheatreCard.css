@@ -1,0 +1,31 @@
+.theatre{
+    display:flex;
+}
+.theatrelogo{
+    display:flex;
+}
+.theatretittle{
+    width:400px;
+    font-family: 'Piedra', cursive;
+}
+.theatrelogoticket{
+    display:flex;
+    color: rgb(47, 151, 47);
+    width:100px;
+    font-family: 'Piedra', cursive;
+}
+.theatrelogofood{
+    display:flex;
+    color:orange;
+    width:180px;
+    margin-left: 50px;
+    font-family: 'Piedra', cursive;
+}
+.theatretiming{
+    display: flex;
+    align-items: center;
+    margin-left: 100px;
+}
+.theatretiming Button{
+    margin-right: 25px;
+}

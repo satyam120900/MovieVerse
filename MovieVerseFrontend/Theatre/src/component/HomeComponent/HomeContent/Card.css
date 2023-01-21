@@ -1,0 +1,37 @@
+.movieRow{
+    width: 150px;
+    text-align: center;
+    margin: auto;
+}
+.movieRows::-webkit-scrollbar {
+    display: none;
+}
+.movieRow--item {
+    display: flexbox;
+    width: 150px;
+    height: inherit;
+    cursor: pointer;
+    overflow: hidden;
+}
+
+.movieRow--item img,
+.movieRow--item .btn {
+    width: 100%;
+    transform: scale(1);
+    transition: all ease 0.2s;
+    padding: 0%;
+    margin: 0%;
+}
+.movieRow .btn{
+    color: white;
+    padding: 0;
+    margin-top: 5px;
+    width:100%;
+    height: 100%;
+
+}
+
+.movieRow--item img:hover,
+.movieRow--item .btn:hover {
+    transform: scale(1.3);
+}

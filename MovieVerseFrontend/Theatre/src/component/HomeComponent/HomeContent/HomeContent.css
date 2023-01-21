@@ -1,0 +1,13 @@
+.movielist{
+    text-align: center;
+    font-family: 'Piedra', cursive;
+    height: max-content;
+    color:white
+}
+.movieRows{
+    width: 100%;
+    display: grid;
+    margin: 2rem 0 2rem 0;
+    grid-gap: 50px;
+    grid-template-columns: auto auto auto auto auto;
+}

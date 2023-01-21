@@ -1,0 +1,26 @@
+[
+    {
+        "value":"1",
+        "label":"Action"
+    },
+    {
+        "value":"2",
+        "label":"Romance"
+    },
+    {
+        "value":"3",
+        "label":"Comedy"
+    },
+    {
+        "value":"4",
+        "label":"Horror"
+    },
+    {
+        "value":"5",
+        "label":"Sci-Fi"
+    },
+    {
+        "value":"6",
+        "label":"Adventure"
+    }
+]

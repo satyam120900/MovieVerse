@@ -1,0 +1,74 @@
+[
+    {
+        "id":"1",
+        "theatreName":"Cauvery Digital 4k Cinema : Sankey",
+        "ShowTimings":
+        [
+            {
+                "timeA":"12:00 PM",
+                "timeB":"05:00 PM",
+                "timeC":"09:00 PM"
+            }
+        ]
+    },
+    {
+        "id":"2",
+        "theatreName":"Cinepolis : Binnypet Mall",
+        "ShowTimings":
+        [
+            {
+                "timeA":"12:30 PM",
+                "timeB":"06:00 PM",
+                "timeC":"09:30 PM"
+            }
+        ]
+    },
+    {
+        "id":"3",
+        "theatreName":"Vaibhav Digital 4k Dolby 7.1 : Sanjaynagar",
+        "ShowTimings":
+        [
+            {
+                "timeA":"12:30 PM",
+                "timeB":"06:00 PM",
+                "timeC":"09:30 PM"
+            }
+        ]
+    },
+    {
+        "id":"4",
+        "theatreName":"Cinepolis : Nexus Shantiniketan",
+        "ShowTimings":
+        [
+            {
+                "timeA":"11:30 AM",
+                "timeB":"04:00 PM",
+                "timeC":"08:30 PM"
+            }
+        ]
+    },
+    {
+        "id":"5",
+        "theatreName":"INOX Lido : OFF MG Road",
+        "ShowTimings":
+        [
+            {
+                "timeA":"12:00 PM",
+                "timeB":"05:00 PM",
+                "timeC":"09:00 PM"
+            }
+        ]
+    },
+    {
+        "id":"6",
+        "theatreName":"PVR : Phoenix MarketCity Mall",
+        "ShowTimings":
+        [
+            {
+                "timeA":"12:30 PM",
+                "timeB":"05:30 PM",
+                "timeC":"09:30 PM"
+            }
+        ]
+    }
+]

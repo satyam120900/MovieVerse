@@ -1,0 +1,28 @@
+.profile-menu-items{
+    position: absolute;
+    padding: 0;
+    list-style: none;
+    top:73px;
+    left:92%;
+    width: 6rem;
+    z-index: 10;
+    align-items: center;;
+    background-color:#2f4050;
+}
+.profile-menu-items li{
+    text-align: center;
+    cursor: pointer;
+    height: 5vh;
+}
+.profile-menu-items.clicked{
+    display: none;
+}
+.menu-item{
+    display: block;
+    width: 100%;
+    text-decoration: none;
+    color:white;
+}
+.profile-menu-items li:hover{
+    background:lightskyblue;
+}

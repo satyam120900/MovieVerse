@@ -1,0 +1,33 @@
+.theatrebody{
+    background-color: whitesmoke;
+}
+.theatreListHeader{
+    background-color: #333545;
+    color:white;
+    display: flex;
+    flex-direction: column;
+    justify-items: center;
+    font-family: 'Piedra', cursive;
+}
+.theatreListHeader h1{
+    margin: 0 0 10px 20px;
+}
+.theatrebadge{
+    margin: 0 0 0 20px;
+    display: flex;
+}
+.dot{
+    height:30px;
+    width: 30px;
+    display: inline-block;
+    text-align: center;
+    border: 2px solid;
+    border-radius: 50%;
+}
+.badge{
+    margin-left: 10px;
+    font-family: 'Piedra', cursive;
+}
+.theatreList{
+    height:100vh;
+}

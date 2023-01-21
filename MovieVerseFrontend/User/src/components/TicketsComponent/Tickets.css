@@ -1,0 +1,26 @@
+.noOrder.active{
+    background:#242333;
+    height: 100vh;
+    display:flex;
+    align-items: center;
+    justify-content: center;
+    color:white;
+    font-family: 'Piedra',cursive;
+}
+.noOrder{
+    display: none;
+}
+.tickets{
+    background:#242333;
+    height: max-content;
+    padding-top:20px;
+    display: flex;
+    align-items: center;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+.tickets .heading{
+    color: white;
+    font-family: 'Piedra',cursive;
+}
